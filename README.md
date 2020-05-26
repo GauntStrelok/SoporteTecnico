@@ -12,7 +12,7 @@ How to run:
 2) run npm run start to install all packages and start both applications
 3) after a few seconds(or minutes depends on internet connection) a browser tab should open in localhost:3000, if not, open it manually
 
-From the user, you can search() operators, you can open several users at the same time without a problem, because the scheduler is in the backend.
+From the user, you can search(reserve) operators, you can open several users at the same time without a problem, because the scheduler is in the backend.
 
 You can access /admin to administrate the current available operators.
 
