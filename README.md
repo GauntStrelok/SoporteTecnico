@@ -16,6 +16,8 @@ From the user, you can search() operators, you can open several users at the sam
 
 You can access /admin to administrate the current available operators.
 
+The server will use port 3001
+
 ------------------------------------------------español--------------------------------------
 
 Versiones:
@@ -33,3 +35,5 @@ Como correrlo:
 Desde el usuario se pueden buscar(ocupar) operadores, se pueden abrir varios usuarios a la vez que no hay problema ya que el scheduler esta en el backend
 
 Se puede entrar a /admin para gestionar los operadores disponibles.
+
+El server correra en el puerto 3001
